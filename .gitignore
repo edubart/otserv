@@ -1,0 +1,17 @@
+build
+db.s3db
+*.kdev4
+build
+build.*
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+./otserv
+otserv.exe
+*.dll
+.kdev*
+CMakeLists.txt.user
+callgrind.out.*
+*.kate-swp
+!.gitignore
